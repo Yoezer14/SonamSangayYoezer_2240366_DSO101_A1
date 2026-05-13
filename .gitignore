@@ -1,0 +1,17 @@
+node_modules/
+**/node_modules/
+
+.env
+**/.env
+.env.local
+**/.env.local
+
+!**/.env.example
+!**/.env.production
+
+build/
+**/build/
+
+*.log
+.DS_Store
+.vscode/
